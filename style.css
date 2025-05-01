@@ -1,0 +1,27 @@
+/* Universal selector */
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+#mainSection{
+    border: 1px solid black;
+    width: 520px;
+    height: 250px;
+    margin: 50px auto;
+    border-radius: 10px;
+    
+}
+#profileInfo{
+    border: 1px;
+    display: inline-block;
+}
+#profileInfo img{
+    width: auto;
+    height: auto;
+
+}
+#profileDesc{
+border: 1px;
+display: inline-block;
+}
